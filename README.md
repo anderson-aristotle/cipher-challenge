@@ -97,6 +97,10 @@ instantiate your cipher with 13, you should get the same results as the
 in-class lab. Use [ROT-n Rotation Encryption online](http://www.rot-n.com/) to
 build your test strings for each potential input.
 
+**NOTE**: You should be running grunt nag before diagnosing any bugs, since it finds some of the most common sources of errors.
+
+Test your code by running grunt test.
+
 ## Additional Resources
 
 -   [Caesar cipher - Wikipedia, the free encyclopedia](http://en.wikipedia.org/wiki/Caesar_cipher)
