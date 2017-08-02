@@ -3,17 +3,13 @@
     "all": [
       "bin/**/*.js",
       "lib/**/*.js",
-      "spec/**/*.spec.js",
-      "snippets/**/*.js"
+      "spec/**/*.spec.js"
     ],
     "spec": [
       "spec/**/*.spec.js"
     ],
     "lib": [
       "lib/**/*.js"
-    ],
-    "snippets": [
-      "snippets/**/*.js"
     ]
   },
 
@@ -28,8 +24,7 @@
     "all": [
       "lib/**/*.json",
       "spec/**/*.json",
-      "grunt/*.json",
-      "snippets/**/*.json"
+      "grunt/*.json"
     ]
   }
 }
