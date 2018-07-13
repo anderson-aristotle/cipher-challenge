@@ -82,7 +82,7 @@ characters.
 cipher.encode('Hello Jeff'); //=> 'Uryyb Wrss'
 ```
 
-Next, implement a ROT25 cipher. You should implement both `.ecnode` and
+Next, implement a ROT25 cipher. You should implement both `.encode` and
 `.decode` methods. Test drive your solution, and use the module pattern.
 
 ```js
